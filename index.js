@@ -14,7 +14,7 @@ const command = `python3 ${pythonScript} -i ${path.join(__dirname, 'uploads/*')}
 
 
 
-const token = ""
+const token = "c4a8269d25ca63534478bf8e71cea1280da6853d3169ccf8b744099f79d77f87"
 // Configure multer pour stocker les fichiers uploadés
 
 
