@@ -1,0 +1,35 @@
+{
+  "name": "sheerz-server",
+  "version": "1.0.0",
+  "description": "Sheerz is a mobile app for shepherds, no more endless counting : one picture and you know how many sheeps you have !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweirdwhale/sheerz.git"
+  },
+  "keywords": [
+    "shepherd",
+    "herd",
+    "sheerz",
+    "sheep",
+    "IA",
+    "YOLO"
+  ],
+  "author": "aweirdwhale",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aweirdwhale/sheerz/issues"
+  },
+  "homepage": "https://github.com/aweirdwhale/sheerz#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
